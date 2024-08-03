@@ -396,13 +396,13 @@ h1, h2, h3, h4, h5,
 	}
 	&.home-slider {
 		position: relative;
-		height: 650px;
+		height: 750px;
 		z-index: 0;
 		.slider-item {
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center center;
-			height: 650px;
+			height: 750px;
 			position: relative;
 			z-index: 0;
 			@include media-breakpoint-down(lg){
@@ -418,7 +418,7 @@ h1, h2, h3, h4, h5,
 				opacity: 0;
 			}
 			.slider-text {
-				height: 650px;
+				height: 750px;
 				z-index: 0;
 				@include media-breakpoint-down(md){
 					text-align: center;
@@ -648,7 +648,7 @@ h1, h2, h3, h4, h5,
 
 .hero-wrap{
 	width: 100%;
-	height: 90%;
+	height: 100%;
 	position: inherit;
 	background-size: cover;
 	background-repeat: no-repeat;
