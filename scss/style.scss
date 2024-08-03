@@ -29,8 +29,10 @@ $secondary: #a0f669;
 
 html {
 	// overflow-x: hidden;
+	touch-action: auto;
 }
 body {
+	touch-action: auto;
 	font-family: $font-primary;
 	background: $black;
 	font-size: 16px;
