@@ -8395,7 +8395,7 @@ h1, h2, h3, h4, h5,
       display: none; } }
 
 .owl-carousel {
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
   position: relative; }
   .owl-carousel .owl-item {
     opacity: .4; }
