@@ -359,6 +359,7 @@ h1, h2, h3, h4, h5,
 //OWL CAROUSEL
 .owl-carousel {
 	position: relative;
+	overflow: hidden;
 	.owl-item {
 		opacity: .4;
 		&.active {
